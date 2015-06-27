@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="author" content="">
     <link rel="icon" href="<?php echo base_url("assets/ico/favicon.ico"); ?>" >
 
-    <title>Dashboard Template for Bootstrap</title>
+    <title>Indahnya RAMADHAN</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo base_url("assets/css/bootstrap.min.css"); ?>" rel="stylesheet">
